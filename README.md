@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amartya Kalita</h1>
 <h3 align="center">Passionate about web development & problem-solving</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=realnerd90&label=Profile%20views&color=0e75b6&style=flat" alt="realnerd90" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realnerd90" alt="realnerd90" /></a> </p>
-
 - 🔭 I’m currently working on **Byte Base**
 
 - 🌱 I’m currently learning **Html,Css and diving into Javascript**
